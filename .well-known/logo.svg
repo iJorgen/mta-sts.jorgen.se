@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.2"
+   baseProfile="tiny-ps"
+   width="250"
+   height="250"
+   viewBox="0 0 250 250"
+   xmlns="http://www.w3.org/2000/svg">
+  <title>Jörgen Andersson</title>
+  <circle
+     cx="125"
+     cy="125"
+     r="125"
+     fill="#1B2A4A" />
+  <text
+     x="125"
+     y="155"
+     font-family="Georgia, serif"
+     font-size="110"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#C9A84C">JA</text>
+</svg>
